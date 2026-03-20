@@ -2,7 +2,7 @@
 
 **openCheck** is a premium, open-source, and entirely local-first writing assistant. It helps you improve your grammar, adjust your tone, and rewrite text without ever sending your data to the cloud.
 
-![openCheck UI Preview](https://via.placeholder.com/800x450.png?text=openCheck+Premium+UI+Preview) *(Add your screenshot here)*
+![openCheck UI Preview](https://via.placeholder.com/800x450.png?text=openCheck+Premium+UI+Preview) 
 
 ## ✨ Key Features
 
