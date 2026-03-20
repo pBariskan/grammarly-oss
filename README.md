@@ -2,8 +2,6 @@
 
 **openCheck** is a premium, open-source, and entirely local-first writing assistant. It helps you improve your grammar, adjust your tone, and rewrite text without ever sending your data to the cloud.
 
-![openCheck UI Preview](https://via.placeholder.com/800x450.png?text=openCheck+Premium+UI+Preview) 
-
 ## ✨ Key Features
 
 - **Local-First & Offline**: Runs entirely on your machine using Llama-3.2-1B and LanguageTool.
